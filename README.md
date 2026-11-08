@@ -29,13 +29,19 @@ The project combines an interactive aircraft environment, VR interactions, and a
 ## Screenshots
 
 ### Main Menu
-![Flight Simulator Main Menu](FlightSimulatorHome.jpeg)
+![Flight Simulator Main Menu](HomePage.jpeg)
 
-### VR Experience
-![Flight Simulator VR](FlightSimulatorVR.jpeg)
+### Inside the Airplane
+![Airplane Interior](InsideThePlane.jpeg)
 
-### Airplane Environment
-![Flight Simulator Gameplay](FlightSimulatorGameplay.jpeg)
+### VR Interaction Buckle Up!
+![Buckling Up](BucklingUp.jpeg)
+
+### Flight Attendant
+![Flight Attendant](FlightAttendent.jpeg)
+
+### Flight View
+![Flight Simulator View](View.jpeg)
 
 ## Running the Project
 
